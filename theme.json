@@ -1,4 +1,12 @@
 {
+  "name": "Filter Hexagon",
+  "description": "Original for Aliucord by afn",
+  "authors": [
+    {
+      "name": "@theunifox",
+      "id": "448846699692032006"
+    }
+  ],
   "semanticColors": {
     "ACTIVITY_CARD_BACKGROUND": [
       "#1e1f22",
