@@ -1,0 +1,141 @@
+{
+  "name": "Filter Hexagon",
+  "description": "Original for Aliucord by afn",
+  "authors": [
+    {
+      "name": "@theunifox",
+      "id": "448846699692032006"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#b1bae6"
+    ],
+    "HEADER_SECONDARY": [
+      "#565f89"
+    ],
+    "TEXT_NORMAL": [
+      "#b1bae6"
+    ],
+    "TEXT_MUTED": [
+      "#565f89"
+    ],
+    "TEXT_LINK": [
+      "#7f8cc9"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#5f647e"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#a2a6c2"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#b5bad1"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#55576b"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#1b1e2c"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#171725"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#171722"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#16161e"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#657bbe"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#171722"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#171722"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#171722"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#171722"
+    ],
+
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#1a1b26"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#1a1b26"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#171722"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#242631"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#171722"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#171722"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#5f647e"
+    ],
+    "TEXT_DANGER": [
+      "#565f89"
+    ],
+    "KEYBOARD": [
+      "#1a1b26"
+    ],
+    "CHANNEL_ICON": [
+      "#5f647e"
+    ],
+    "CHAT_BACKGROUND": [
+      "#1a1b26"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#16161e"
+    ],
+    "SPOILER_REVEALED_BACKGROUND": [
+      "#171722"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#4b4f61",
+    "PRIMARY_200": "#16161e",
+    "PRIMARY_300": "#9197bd",
+    "PRIMARY_360": "#62657f",
+    "PRIMARY_400": "#767b8a",
+    "PRIMARY_500": "#16161e",
+    "PRIMARY_600": "#1a1b26",
+    "PRIMARY_630": "#161820",
+    "PRIMARY_660": "#171920",
+    "PRIMARY_700": "#16191f",
+    "PRIMARY_800": "#0a0c16",
+
+    "BRAND_260": "#5f647e",
+    "BRAND_360": "#5f647e",
+    "BRAND_500": "#5f647e",
+    "BRAND_560": "#4C566A",
+    "WHITE_500": "#b1bae6",
+    "YELLOW_300": "#5f647e",
+    "GREEN_360": "#66cabb",
+    "RED_400": "#e94a74"
+  },
+  "plus": {
+    "version": 0,
+    "iconpack": "rosiecord-iconsax",
+    "icons": {
+      "StatusStreaming": "#5f647e",
+      "StatusMobileOnline": "#b1bae6",
+      "StatusIdle": "#5f647e",
+      "StatusDND": "#b1bae6",
+      "StatusOffline": "#5f647e",
+      "StatusOnline": "#b1bae6"
+    }
+  },
+  "spec": 2
+}

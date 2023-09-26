@@ -1,0 +1,114 @@
+{
+  "name": "Filter Hexagon",
+  "description": "Original for Aliucord by afn",
+  "authors": [
+    {
+      "name": "@theunifox",
+      "id": "448846699692032006"
+    }
+  ],
+  "semanticColors": {
+    "ACCENT": [
+      "#657bbe"
+    ],
+    "ACTIVE_CHANNEL": [
+      "#8085c7"
+    ],
+    "BACKGROUND": [
+      "#1b1e2c"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#171725"
+    ],
+    "INPUT_BACKGROUND": [
+      "#2a2c39"
+    ],
+    "MENTION_HIGHLIGHT": [
+      "#8085c7"
+    ]
+  },
+  "rawColors": {
+    "DARK_GREY_2": "#73799b",
+    "DIM_FOREGROUND_MATERIAL_LIGHT": "#2f323e",
+    "LINK_500": "#66cabb",
+
+    "PRIMARY_100": "#4b4f61",
+    "PRIMARY_630": "#161820",
+    "PRIMARY_700": "#16191f",
+
+    "PRIMARY_DARK_300": "#9197bd",
+    "PRIMARY_DARK_330": "#767b8a",
+    "PRIMARY_DARK_360": "#62657f",
+    "PRIMARY_DARK_400": "#767b8a",
+    "PRIMARY_DARK_630": "#161820",
+    "PRIMARY_DARK_660": "#171920",
+    "PRIMARY_DARK_800": "#0a0c16",
+
+    "RIPPLE_MATERIAL_DARK": "#7f89c2",
+    "RIPPLE_MATERIAL_LIGHT": "#7f89c2",
+    "UIKIT_BTN_BG_COLOR_SELECTOR_GREEN": "#66cabb",
+    "UIKIT_BTN_BG_COLOR_SELECTOR_RED": "#e94a74",
+    "UIKIT_SETTINGS_ITEM_TEXT_COLOR_LIGHT": "#2f323e",
+
+    "red" "e94a74",
+    "green" "66cabb",
+    "lgray" "9197bd",
+    "dgray" "5f6589",
+    "yellow" "ffd05e",
+
+    "DRAWABLE_BOOST_PROGRESS_BAR_DARK": "#e94a74",
+    "DRAWABLE_BUTTON_GREY": "#2e333e",
+    "DRAWABLE_OVERLAY_CHANNELS_DARK": "#2f3645",
+    "DRAWABLE_VOICE_CONTROLS_BG": "#1d212f",
+    "DRAWABLE_VOICE_INDICATOR_SPEAKING": "#66cabb",
+    "IC_ADD_FRIEND_GREEN_CHECK": "#66cabb",
+    "IC_ADD_FRIEND_PLUS": "#66cabb",
+    "IC_BAN_RED_24DP": "#e94a74",
+    "IC_BOOSTED_BADGE_12DP": "#e94a74",
+    "IC_BOOSTED_BADGE_18DP": "#e94a74",
+    "IC_BOOSTED_BADGE_24DP": "#e94a74",
+    "IC_CALL_DISCONNECT_24DP": "#e94a74",
+    "IC_CHANNEL_ANNOUNCEMENTS": "#66cabb",
+    "IC_CHANNEL_TEXT": "#66cabb",
+    "IC_CHECK_GREEN_24DP": "#66cabb",
+    "IC_CHECKMARK_GREEN_16DP": "#66cabb",
+    "IC_DISABLE_GUILD_COMMUNICATION_RED_24DP": "#e94a74",
+    "IC_MENU_24DP": "#66cabb",
+    "IC_MIC_MUTE_RED_STRIKE_24DP": "#e94a74",
+    "IC_PHONE_24DP": "#66cabb",
+    "IC_PHONE_VERIFICATION_24DP": "#66cabb",
+    "IC_REMOVE_CIRCLE_OUTLINE_RED_24DP": "#e94a74",
+    "IC_REMOVE_FRIEND_RED_24DP": "#e94a74",
+    "IC_SIDEBAR_NOTIFICATIONS_OFF_LIGHT_24DP": "#9197bd",
+    "IC_SIDEBAR_NOTIFICATIONS_ON_DARK_24DP": "#9197bd",
+    "IC_SIDEBAR_PINS_OFF_DARK_24DP": "#9197bd",
+    "IC_STATUS_DND_16DP": "#e94a74",
+    "IC_STATUS_IDLE_16DP": "#ffd05e",
+    "IC_STATUS_INVISIBLE_16DP": "#5f6589",
+    "IC_STATUS_ONLINE_16DP": "#66cabb",
+    "IC_STOP_STREAM": "#e94a74",
+    "IC_TERNARY_ON_UNCHECKED": "#66cabb",
+    "IC_THREAD": "#66cabb",
+    "IC_THREAD_GREY_18DP": "#66cabb",
+    "IC_THREAD_GREY_24DP": "#66cabb",
+    "IC_THREAD_LOCKED": "#66cabb",
+    "IC_TRANSFER_RED_24DP": "#e94a74",
+    "IC_USER_PROFILE_ACTION_PENDING": "#ffd05e",
+    "IC_X_RED_24DP": "#e94a74",
+    "RIPPLE_CIRCLE_RED": "#e94a74",
+    "RIPPLE_PILL_RED": "#e94a74"
+  },
+  "plus": {
+    "version": 0,
+    "iconpack": "rosiecord-iconsax",
+    "icons": {
+      "StatusStreaming": "#5f6589",
+      "StatusMobileOnline": "#66cabb",
+      "StatusIdle": "#ffd05e",
+      "StatusDND": "#e94a74",
+      "StatusOffline": "#5f6589",
+      "StatusOnline": "#66cabb"
+    }
+  },
+  "spec": 2
+}
